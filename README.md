@@ -5,7 +5,7 @@
 **US Bikeshare Project**
 
 ### Description
-Describe what your project is about and what it does
+This project was created to answer statistical queries regarding bikeshare companies in the US.Three major cities were taken into consideration while working with this project namely chicago, washington, and new york. 
 
 ### Files used
 Include the files used
