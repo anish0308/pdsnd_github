@@ -6,7 +6,7 @@ Created on Wed Jan 29 19:55:36 2020
 @author: anish
 """
 
-import numpy as np
+
 import pandas as pd
 import time
 import datetime
@@ -250,8 +250,8 @@ def main():
          user_stats(df)
          show(df)
          
-         restart = input('\nWould you like to restart? Yes or No?\n')
-         if restart.lower() != 'yes':
+         r = input('\nWould you like to restart? Yes or No?\n')
+         if r.lower() != 'yes':
               break
            
    
